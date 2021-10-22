@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965488661448",
+    "project_id": "nice-85b16",
+    "storage_bucket": "nice-85b16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965488661448:android:3b6482e29392d56d9a26fd",
+        "android_client_info": {
+          "package_name": "com.project.nice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965488661448-2k08cm3q0n72ab7lc6h2i0j5f9qglvrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCneNH6Vdt0mKHvnn_IqgZY5cLWTb77_Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965488661448-2k08cm3q0n72ab7lc6h2i0j5f9qglvrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
